@@ -1,16 +1,18 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+name: Matt Garcia
+avatar: /static/images/ojo-dragon.jpg
+occupation: Web Developer
+company: Infusion
+email: teo9307@hotmail.com
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com
 github: https://github.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+# Hola
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Soy un sobreviviente del TSW, soy desarrollador frontend, y soy un curioso sobre gran variedades de temas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+tienes dermatitis atopica? o una enfermedad autoinmune relacionada con alergias o inflamacion de la piel, o tal vez conoces a alguien que padezca este tipo de condiciones, entonces tal vez te interese este blog
+
+me hice una promesa de ayudar a otros pudieran liberarse de esta condicion y dar una guia de como pasar por la dificil y dolorosa

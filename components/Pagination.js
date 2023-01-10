@@ -6,7 +6,7 @@ export default function Pagination({ totalPages, currentPage }) {
 
   return (
     <div className="space-y-2 pt-6 pb-8 md:space-y-5">
-      <nav className="flex justify-between">
+      <nav className="flex justify-between rounded border-2 border-gray-300">
         {!prevPage && (
           <button rel="previous" className="cursor-auto disabled:opacity-50" disabled={!prevPage}>
             Previous
